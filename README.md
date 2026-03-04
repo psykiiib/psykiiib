@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&center=true&width=200&lines=Tech+Stack" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&center=true&width=200&lines=Stack" alt="Stack" />
 </br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,py,figma&theme=dark" /> </br>
