@@ -17,16 +17,18 @@
 </br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&width=200&lines=Projects" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&center=true&width=200&lines=Projects" alt="Projects" />
 
 <!-- Pinned Repos Start -->
 <!-- Pinned Repos End -->
 
 </div>
 
----
+<br>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&center=true&width=200&lines=Tech+Stack" alt="Tech Stack" />
+</br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,py,figma&theme=dark" /> </br>
     <img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" />
