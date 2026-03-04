@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&width=200&lines=Hey%2C+I+am+Khandaker+SHAHARAIR;aka psykiiib+/+psy;Student+and+Developer+from+BD;currently+in+France;I+build+products+fast;and+with+passion+and+creativity"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&center=true&width=600&separator=%3C&lines=Hey%2C+I'm+Khandaker+SHAHARIAR%3Caka+psykiiib%2Fpsy%3Cstudent+%26+developer+from+BD%3Ccurrently+in+France%3CI+build+products+fast%3Cand+with+passion+and+creativity+;)" alt="Typing SVG" /></a>
 
 <br>
 <p align="center"> 
@@ -20,8 +19,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&width=200&lines=Projects" alt="Projects" />
 
-<!-- PINNED_REPOS_START -->
-<!-- PINNED_REPOS_END -->
+<!-- Pinned Repos Start -->
+<!-- Pinned Repos End -->
 
 </div>
 
