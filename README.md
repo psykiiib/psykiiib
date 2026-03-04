@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I+am+Khandaker+SHAHARAIR;aka psykiiib+/+psy;Student+and+Developer+from+BD;currently+in+France;I+build+products+fast;and+with+passion+and+creativity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CCFF00&width=200&lines=Hey%2C+I+am+Khandaker+SHAHARAIR;aka psykiiib+/+psy;Student+and+Developer+from+BD;currently+in+France;I+build+products+fast;and+with+passion+and+creativity"/>
 
 <br>
 <p align="center"> 
