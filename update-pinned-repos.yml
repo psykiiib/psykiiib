@@ -1,0 +1,20 @@
+name: Update Pinned Repositories
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_pinned_repos:
+    name: Update Pinned Repositories
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dev-drprasad/github-pinned-repositories-list@v1.0
+        with:
+          username: "psykiiib"
