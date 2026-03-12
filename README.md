@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=psykiiib&show_icons=true&bg_color=0D1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&rank_icon=github&include_all_commits=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=psykiiib&show_icons=true&bg_color=0D1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&rank_icon=github"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykiiib&layout=compact&bg_color=0D1117&title_color=CCFF00&text_color=ffffff&border_color=CCFF00&hide_border=false" />
 </p>
 
